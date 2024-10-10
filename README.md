@@ -17,3 +17,5 @@
 
 # Experiments 
 🐞 😀 🚀
+
+[CLI commands](docs/cli.md)
