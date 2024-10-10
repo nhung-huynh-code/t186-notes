@@ -1,0 +1,1 @@
+The cat command is used to display the contents of a file, combine multiple files, or create new files. It’s commonly used for viewing file content (cat filename.txt), merging files (cat file1.txt file2.txt > combined.txt), or appending data (cat file1.txt >> existingfile.txt).

@@ -19,3 +19,4 @@
 🐞 😀 🚀
 
 [CLI commands](docs/cli.md)
+[CLI commands](docs/cli2.md)
